@@ -1,2 +1,0 @@
--n net.net.xml -r input_routes.rou.xml --device.ssm.probability 1
---no-step-log
